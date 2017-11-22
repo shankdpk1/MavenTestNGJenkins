@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-04BK3GM" name="MavenTestNGGitHubJenkins.MavenTestNGGitHubJenkinsArtID.confirmationPopUpHandler" tests="2" failures="0" timestamp="22 Nov 2017 03:16:03 GMT" time="39.351" errors="0">
+  <testcase name="confirmationPopUp" time="39.34" classname="MavenTestNGGitHubJenkins.MavenTestNGGitHubJenkinsArtID.confirmationPopUpHandler"/>
+  <testcase name="printMsg" time="0.0" classname="MavenTestNGGitHubJenkins.MavenTestNGGitHubJenkinsArtID.confirmationPopUpHandler"/>
+</testsuite>

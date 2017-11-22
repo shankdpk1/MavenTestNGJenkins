@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79599" started-at="2017-11-21T22:14:44Z" finished-at="2017-11-21T22:16:03Z">
+    <groups>
+    </groups>
+    <test name="SecondTest" duration-ms="39351" started-at="2017-11-21T22:15:24Z" finished-at="2017-11-21T22:16:03Z">
+      <class name="MavenTestNGGitHubJenkins.MavenTestNGGitHubJenkinsArtID.confirmationPopUpHandler">
+        <test-method status="PASS" signature="confirmationPopUp()" name="confirmationPopUp" duration-ms="39340" started-at="2017-11-21T22:15:24Z" finished-at="2017-11-21T22:16:03Z">
+        </test-method>
+        <test-method status="PASS" signature="printMsg()" name="printMsg" duration-ms="0" started-at="2017-11-21T22:16:03Z" finished-at="2017-11-21T22:16:03Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="FirstTest" duration-ms="40206" started-at="2017-11-21T22:14:44Z" finished-at="2017-11-21T22:15:24Z">
+      <class name="MavenTestNGGitHubJenkins.MavenTestNGGitHubJenkinsArtID.confirmationPopUpHandler">
+        <test-method status="PASS" signature="confirmationPopUp()" name="confirmationPopUp" duration-ms="40194" started-at="2017-11-21T22:14:44Z" finished-at="2017-11-21T22:15:24Z">
+        </test-method>
+        <test-method status="PASS" signature="printMsg()" name="printMsg" duration-ms="1" started-at="2017-11-21T22:15:24Z" finished-at="2017-11-21T22:15:24Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
